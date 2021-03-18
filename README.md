@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Aeratian/Ian Youn
+- 👀 I’m interested in ... competitive programming, sports, video games, and math.
+- 🌱 I’m currently learning ... various algorithms (KMP, Dynamic Programming, Segment Tree...)
+- 📫 How to reach me ... ian.youn2004@gmail.com
+
+<!---
+Aeratian/Aeratian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
