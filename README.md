@@ -2,6 +2,7 @@
 - 👀 I’m interested in ... competitive programming, sports, video games, and math.
 - 🌱 I’m currently learning ... various algorithms (KMP, Dynamic Programming, Segment Tree...)
 - 📫 How to reach me ... ian.youn2004@gmail.com
+- I currently know ... Java (expert), C++ (intermediate), Python (beginner)
 
 <!---
 Aeratian/Aeratian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
